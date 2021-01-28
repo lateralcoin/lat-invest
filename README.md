@@ -1,2 +1,1 @@
-# lat-invest
-LAT-Invest: Crypto Trading Algorithm by LateralCoin Ltd.
+# LAT-Invest (LTI2.0)
